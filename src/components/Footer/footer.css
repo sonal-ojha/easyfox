@@ -1,0 +1,29 @@
+.footer {
+    bottom: 0;
+    height: 82px;
+    width: 100%;
+    position: fixed;
+    box-sizing: border-box;
+    padding: 10 20px;
+    box-shadow: 0 2px 15px 0 rgba(182,182,182,0.5);
+}
+
+.download_btn_container {
+    float: right;
+    margin: 15px 150px;
+}
+
+.download_pdf_btn {
+    padding: 0;
+	height: 54px;
+	width: 188px;
+	border-radius: 4px;
+    background-color: #314BFF;
+    color: #FFFFFF;
+	font-family: "Charlie Text";
+	font-size: 18px;
+	font-weight: 600;
+    line-height: 22px;
+    outline: none;
+    cursor: pointer;
+}

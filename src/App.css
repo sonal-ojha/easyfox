@@ -1,0 +1,14 @@
+.App {
+  top: 0;
+  left: 0;
+  margin: 0;
+}
+
+.Flex {
+  display: flex;
+}
+
+.rectangle {
+  height: 1px;
+  background-color: #EFEFF6;
+}
